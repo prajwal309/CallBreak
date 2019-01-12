@@ -1,0 +1,26 @@
+
+Main Objective:
+To win highest number of hands as possible among the four players. If a player is able to win 8 hands in a single round with initial declaration, then he will win the game.
+
+
+Rules for playing cards:
+
+1. For the first hand, a player can choose whichever card he can play. This is when, one can change how the game goes.
+
+2. After a card has been played, every player must try to play the same type and play winning card if possible. If any player does not have the type of card, then he may use spade. Spades are stronger than the
+
+3. If you are able to win number of hands you have initially declared, you win the same amount of points. If you are unable, it will be considered a negative point. And if you win more than you declare, the greater number of hands will be considered in decimal.
+
+Rules for winning cards:
+
+1. Cards of highest value win. The value rises from 2 to A.
+
+2. Spades win all other type of class. Within Spade, the value rises from 2 to A. If you have A of spade, you will surely win 1 hand.
+
+Some Strategy:
+
+1. Having many spade gives a player edge over other.
+
+2. Having too many of other types other than spade might be an disadvantage.
+
+3. Games gets tricky at the end, where chances are created and taken.
